@@ -1,3 +1,24 @@
+## household_objects_database_msgs (jade) - 0.1.1-0
+
+The packages in the `household_objects_database_msgs` repository were released into the `jade` distro by running `/usr/bin/bloom-release -r jade -t jade household_objects_database_msgs` on `Wed, 13 May 2015 06:58:25 -0000`
+
+The `household_objects_database_msgs` package was released.
+
+Version of package(s) in repository `household_objects_database_msgs`:
+- upstream repository: https://github.com/ros-interactive-manipulation/household_objects_database_msgs.git
+- release repository: unknown
+- rosdistro version: `null`
+- old version: `null`
+- new version: `0.1.1-0`
+
+Versions of tools used:
+- bloom version: `0.5.20`
+- catkin_pkg version: `0.2.7`
+- rosdep version: `0.11.2`
+- rosdistro version: `0.4.1`
+- vcstools version: `0.1.36`
+
+
 ## household_objects_database_msgs (indigo) - 0.1.1-2
 
 User `isucan@isucan-glaptop0` released the packages in the `household_objects_database_msgs` repository into the `indigo` distro by running `/usr/bin/bloom-release -t indigo -r indigo household_objects_database_msgs` on `Mon, 10 Mar 2014 16:02:39 -0000`
