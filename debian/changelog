@@ -1,0 +1,24 @@
+ros-kinetic-household-objects-database-msgs (0.1.2-0jessie) jessie; urgency=high
+
+  * [feat] added ORK type field in DatabaseModelPose #1 <https://github.com/ros-interactive-manipulation/household_objects_database_msgs/issues/1>
+  * Updated maintainers
+  * Contributors: Matei Ciocarlie, Dave Coleman, Isaac I.Y. Saito
+
+ -- Matei Ciocarlie <matei.ciocarlie@gmail.com>  Tue, 19 Jul 2016 07:00:00 -0000
+
+ros-kinetic-household-objects-database-msgs (0.1.1-0jessie) jessie; urgency=high
+
+  * tagged 0.1.1 version
+  * added ORK type field in DatabaseModelPose
+  * Contributors: Matei Ciocarlie
+
+ -- Matei Ciocarlie <matei.ciocarlie@gmail.com>  Fri, 15 Mar 2013 07:00:00 -0000
+
+ros-kinetic-household-objects-database-msgs (0.1.0-0jessie) jessie; urgency=high
+
+  * Initial commit; moved files over from household_objects_database package in object_manipulation
+  * Contributors: Matei Ciocarlie
+
+ -- Matei Ciocarlie <matei.ciocarlie@gmail.com>  Tue, 05 Mar 2013 08:00:00 -0000
+
+
